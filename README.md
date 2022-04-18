@@ -17,6 +17,6 @@
 
 </p>
 
-## ⚔️ ᴅᴇᴘʟᴏʏ ᴛᴏ ʜᴇʀᴏᴋᴜ ⚔️
+## ⚔️ JOKER ᴛᴏ SPAMBOT ⚔️
 
 [![𝗗𝗘𝗣𝗟𝗢𝗬 ](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/MR-JOKER-SPAMBOT/MR_JOKERxSPAM) 
